@@ -16,6 +16,11 @@
         "BLUETOOTH_CONNECT",
         "ACCESS_FINE_LOCATION"
       ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2804309d-2343-419b-9472-9d006a2f8554"
+      }
     }
   }
 }
